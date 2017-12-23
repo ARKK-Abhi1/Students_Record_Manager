@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=fileName\ append
+comment0.target=DataWriter(java.lang.String,\ boolean)
+comment1.params=data\ append
+comment1.target=boolean\ store(java.lang.String,\ boolean)
+numComments=2

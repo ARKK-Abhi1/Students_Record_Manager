@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Input()
+comment1.params=acceptSect\ acceptRn
+comment1.target=boolean\ acceptID(boolean,\ boolean)
+comment2.params=
+comment2.target=boolean\ acceptInfo()
+comment3.params=
+comment3.target=java.lang.String\ getRecord()
+comment4.params=
+comment4.target=java.lang.String\ acceptField()
+comment5.params=
+comment5.target=java.lang.String\ acceptFieldValue()
+comment6.params=
+comment6.target=boolean\ choice()
+comment7.params=str
+comment7.target=char\ firstChar(java.lang.String)
+comment8.params=acceptSect\ acceptRn
+comment8.target=boolean\ idInputAvailable(boolean,\ boolean)
+numComments=9
